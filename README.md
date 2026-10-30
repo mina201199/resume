@@ -14,9 +14,10 @@ Live site: <https://mina201199.github.io/resume/>
    [Demo and walkthrough video](https://predictfix-mobile-demo.ruru0109lee.chatgpt.site) ·
    [Validation record](https://github.com/mina201199/predictfix-ai-factory/blob/main/docs/release-validation-20261020.md)
 2. **PowerQuery TW** — Text2SQL over Taipower open data with SQL and semantic guards; unknown
-   questions are refused or clarified, and OpenAI is optional. Evaluated on a fixed offline
-   benchmark. Team project forked from
-   [lee851104/text2sql_project](https://github.com/lee851104/text2sql_project).
+   questions are refused or clarified, and OpenAI is optional. The team evaluated it on a fixed
+   offline benchmark. Team project forked from
+   [lee851104/text2sql_project](https://github.com/lee851104/text2sql_project); my part is two
+   PRs merged upstream plus the online evaluation CLI and offline question coverage in the fork.
    [Source](https://github.com/mina201199/text2sql_project) ·
    [Offline evaluation report](https://github.com/mina201199/text2sql_project/blob/main/reports/eval_latest.json)
 3. **Labor-rights RAG** — Q&A over official Taiwanese labor sources using BM25 + vector hybrid
