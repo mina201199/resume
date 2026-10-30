@@ -21,7 +21,8 @@ Live site: <https://mina201199.github.io/resume/>
    [Offline evaluation report](https://github.com/mina201199/text2sql_project/blob/main/reports/eval_latest.json)
 3. **Labor-rights RAG** — Q&A over official Taiwanese labor sources using BM25 + vector hybrid
    retrieval with RRF, citation-ID checks, and refusal when the evidence is insufficient.
-   Private repository; demo available on request.
+   [Source](https://github.com/mina201199/hr-leave-attendance-rag) ·
+   [Validation report](https://github.com/mina201199/hr-leave-attendance-rag/blob/main/reports/corpus-120-validation-20261021.json)
 4. **Life House** — 3-person team project (Top 10 of 160 teams at a hackathon) mapping
    walking-distance risk from 230k Taoyuan accident records, with my continued development:
    location A/B comparison, share links, favorites, and Playwright E2E.
